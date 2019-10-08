@@ -18,17 +18,17 @@ sections:
   section_id: features
   title: Features
   component: features_block.html
-  subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-    quis lorem malesuada luctus.
+  subtitle: On average, Amazon affiliate sites promote 10 to 15% of unavailable products.
   bg: gray
   featureslist:
-  - title: The Best Feature of Your Services
-    content: Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed aliquet
-      luctus, lorem risus volutpat dolor, nec dignissim diam neque consequat ex.
-    image: images/feature1.png
+  - title: Automatic Scan
+    content: ClickClickBankBank will automatically scan your entire site and find
+      every Amazon product you are promoting. Using an Affiliate Link Cloaking tool
+      like AAWP or EasyAzon? We got it covered.
+    image: "/images/scan_auto-1.jpg"
     actions:
-    - label: Learn More
-      url: "/features"
+    - label: Sign Up
+      url: https://app.clickclickbankbank.com/sign-up
   - title: Awesome Feature of Your Services
     content: Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
       sapien interdum luctus. Cras rhoncus condimentum metus sit amet auctor.
