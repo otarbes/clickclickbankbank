@@ -6,9 +6,8 @@ sections:
   section_id: hero
   title: Track all your Amazon links in one place
   component: hero_block.html
-  content: A lightweight tool to scan your website and track Amazon products availability
-    and ratings. Build better Amazon Affiliate websites with all product information
-    at hand.
+  content: A lightweight tool that scan your website and track Amazon products links
+    to helps you build better Amazon Affiliate websites and generate more revenue.
   image: "/images/ccbb-computer.png"
   actions:
   - label: Try now
