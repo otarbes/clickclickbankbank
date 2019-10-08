@@ -8,7 +8,7 @@ sections:
   component: hero_block.html
   content: A lightweight tool that scan your website and track Amazon products links
     to helps you build better Amazon Affiliate websites and generate more revenue.
-  image: "/images/ccbb-computer.png"
+  image: "/images/Hero-screen.png"
   actions:
   - label: Try now
     url: https://app.clickclickbankbank.com/sign-up
