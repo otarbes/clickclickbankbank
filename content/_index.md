@@ -23,9 +23,8 @@ sections:
   bg: white
   featureslist:
   - title: Automatic Scan
-    content: ClickClickBankBank will automatically scan your entire site and find
-      every Amazon product you are promoting. Using an Affiliate Link Cloaking tool
-      like AAWP or EasyAzon? We got it covered.
+    content: Automatically scan your entire site and find every Amazon product you
+      are promoting. Compatible with Affiliate Link Cloaking tool like AAWP or EasyAzon.
     image: "/images/scan_auto-1.jpg"
     actions:
     - label: Sign Up
