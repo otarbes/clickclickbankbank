@@ -29,13 +29,14 @@ sections:
     actions:
     - label: Sign Up
       url: https://app.clickclickbankbank.com/sign-up
-  - title: Awesome Feature of Your Services
-    content: Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-      sapien interdum luctus. Cras rhoncus condimentum metus sit amet auctor.
-    image: images/feature2.png
+  - title: Reliable Data
+    content: Unlike other tools, ClickClickBankBank checks automatically every product
+      status based on the Amazon Product Advertising API. Wether the product is unavailable
+      or out of stock, you will be the first to know.
+    image: "/images/reliable_data_white-1.jpg"
     actions:
-    - label: Learn More
-      url: "/features"
+    - label: Sign Up
+      url: https://app.clickclickbankbank.com/sign-up
   - title: Cool Feature of Your Services
     content: In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean quis
       venenatis sem. Proin eget massa id metus eleifend maximus sit amet nec urna.
