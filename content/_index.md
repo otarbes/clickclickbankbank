@@ -4,7 +4,7 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  title: Track all Amazon products you promote in one place
+  title: Track all your Amazon links in one place
   component: hero_block.html
   content: A lightweight tool to scan your website and track Amazon products availability
     and ratings. Build better Amazon Affiliate websites with all product information
