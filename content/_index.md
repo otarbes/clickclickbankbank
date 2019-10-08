@@ -23,7 +23,7 @@ sections:
   - title: Automatic website links scanner
     content: Automatically scan your entire site and find every Amazon product you
       are promoting. Compatible with Affiliate Link Cloaking tool like AAWP or EasyAzon.
-    image: "/images/illustr-1.png"
+    image: "/images/illustr-1_height.png"
     actions:
     - label: Sign Up
       url: https://app.clickclickbankbank.com/sign-up
