@@ -20,12 +20,12 @@ sections:
   component: features_block.html
   subtitle: Stop losing your commissions today. Never promote another unavailable
     Amazon product again.
-  bg: white
+  bg: gray
   featureslist:
   - title: Automatic Website Scan
     content: Automatically scan your entire site and find every Amazon product you
       are promoting. Compatible with Affiliate Link Cloaking tool like AAWP or EasyAzon.
-    image: "/images/scan_auto-1.jpg"
+    image: "/images/illustr-1.png"
     actions:
     - label: Sign Up
       url: https://app.clickclickbankbank.com/sign-up
