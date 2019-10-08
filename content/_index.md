@@ -19,7 +19,7 @@ sections:
   title: Features
   component: features_block.html
   subtitle: On average, Amazon affiliate sites promote 10 to 15% of unavailable products.
-  bg: gray
+  bg: white
   featureslist:
   - title: Automatic Scan
     content: ClickClickBankBank will automatically scan your entire site and find
