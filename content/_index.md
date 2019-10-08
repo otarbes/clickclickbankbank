@@ -18,7 +18,8 @@ sections:
   section_id: features
   title: Features
   component: features_block.html
-  subtitle: On average, Amazon affiliate sites promote 10 to 15% of unavailable products.
+  subtitle: Stop losing your commissions today. Never promote another unavailable
+    Amazon product again.
   bg: white
   featureslist:
   - title: Automatic Scan
