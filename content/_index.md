@@ -37,13 +37,13 @@ sections:
     actions:
     - label: Sign Up
       url: https://app.clickclickbankbank.com/sign-up
-  - title: Cool Feature of Your Services
-    content: In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean quis
-      venenatis sem. Proin eget massa id metus eleifend maximus sit amet nec urna.
-    image: images/feature3.png
+  - title: Simple Dashboard, Deep Insights
+    content: We keep dashboard design simple and most efficient, so you can quickly
+      control your site health.
+    image: "/images/simple_reports-1.jpg"
     actions:
-    - label: Learn More
-      url: "/features"
+    - label: Sign Up
+      url: https://app.clickclickbankbank.com/sign-up
 - type: reviewsblock
   template: reviewsblock
   section_id: reviews
