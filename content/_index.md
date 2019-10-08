@@ -31,7 +31,7 @@ sections:
     content: Unlike other tools, ClickClickBankBank checks automatically every product
       status based on the Amazon Product Advertising API. Wether the product is unavailable
       or out of stock, you will be the first to know.
-    image: "/images/illustr-2.png"
+    image: "/images/illustr-2_height.png"
     actions:
     - label: Sign Up
       url: https://app.clickclickbankbank.com/sign-up
