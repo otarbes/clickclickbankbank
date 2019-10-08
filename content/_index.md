@@ -22,7 +22,7 @@ sections:
     Amazon product again.
   bg: white
   featureslist:
-  - title: Automatic Scan
+  - title: Automatic Website Scan
     content: Automatically scan your entire site and find every Amazon product you
       are promoting. Compatible with Affiliate Link Cloaking tool like AAWP or EasyAzon.
     image: "/images/scan_auto-1.jpg"
