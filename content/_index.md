@@ -16,10 +16,9 @@ sections:
 - type: featuresblock
   template: featuresblock
   section_id: features
-  title: Features
+  title: Stop losing your commissions today
   component: features_block.html
-  subtitle: Stop losing your commissions today. Never promote another unavailable
-    Amazon product again.
+  subtitle: Never promote another unavailable Amazon product again.
   bg: gray
   featureslist:
   - title: Automatic Website Scan
