@@ -35,7 +35,7 @@ sections:
     actions:
     - label: Sign Up
       url: https://app.clickclickbankbank.com/sign-up
-  - title: Simple Dashboard, Deep Insights
+  - title: Simple dashboard, deep insights
     content: We keep dashboard design simple and most efficient, so you can quickly
       control your site health.
     image: "/images/illustr-3.png"
