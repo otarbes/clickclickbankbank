@@ -13,8 +13,8 @@ sections:
     price: "$5/m"
     details: |-
       * Unlimited Domains
-      * 5,000 Amazon affiliate links checked
-      * 24/7 Monitoring & Support
+      * 5,000 Amazon Links
+      * 24-7 Monitoring & Support
     actions:
     - label: Buy Now
       url: https://app.clickclickbankbank.com/sign-up
@@ -23,8 +23,8 @@ sections:
     price: "$15/m"
     details: |-
       * Unlimited Domains
-      * 20,000 Amazon affiliate links checked
-      * 24/7 Monitoring & Support
+      * 20,000 Amazon Links
+      * 24-7 Monitoring & Support
     highlight: true
     actions:
     - label: Buy Now
@@ -33,8 +33,8 @@ sections:
     price: "$25/m"
     details: |-
       * Unlimited Domains
-      * 60,000 Amazon affiliate links checked
-      * 24/7 Monitoring & Suppo
+      * 60,000 Amazon Links
+      * 24-7 Monitoring & Suppo
     actions:
     - label: Buy Now
       url: https://app.clickclickbankbank.com/sign-up
