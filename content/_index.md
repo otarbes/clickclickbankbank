@@ -94,6 +94,9 @@ sections:
     answer: We will accept your refund request for free for 7 days or if you haven’t
       started any scan in your account. You can also change or cancel your plan at
       any time in your dashboard.
+  - question: Do you offer support if I need help?
+    answer: Yes! Top-notch customer support is key for a quality product, so we’ll
+      do our very best to resolve any issues you encounter via our [Slack Channel](https://clickclickbankbank.slack.com).
 - type: ctablock
   template: ctablock
   section_id: call-to-action
