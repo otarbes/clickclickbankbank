@@ -85,8 +85,11 @@ sections:
     answer: In our pricing above, a “link” refers one Amazon product link. If you
       have several links to the same product multiple page, only one link will be
       deducted from your balance.
-  - question: ''
-    answer: ''
+  - question: Is there any requirements to use the service?
+    answer: In order to use our tool, it is imperative that you already have access
+      to the official Amazon Product Advertising API. Please check in your Amazon
+      Affiliate Account to ensure that you are able to create API keys before you
+      buy.
   - question: ''
     answer: ''
 - type: ctablock
