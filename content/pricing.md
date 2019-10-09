@@ -65,6 +65,6 @@ sections:
 layout: pricing
 menu:
   main:
-    weight: 3
+    weight: 2
 
 ---
