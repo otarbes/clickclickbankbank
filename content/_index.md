@@ -69,7 +69,7 @@ sections:
   section_id: call-to-action
   title: Ready To Make More Commissions?
   component: cta_block.html
-  subtitle: Join our affiliate program
+  subtitle: 7 days money-back guarantee
   actions:
   - label: Sign Up
     url: https://app.clickclickbankbank.com/sign-up
