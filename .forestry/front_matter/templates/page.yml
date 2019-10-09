@@ -24,7 +24,7 @@ fields:
   config:
     required: true
 pages:
-- content/terms-of-use.md
 - content/privacy-cookie-policy.md
+- content/terms-of-use.md
 - content/about.md
 - content/style-guide.md
