@@ -29,6 +29,8 @@ sections:
   label: Social Links
   templates:
   - social
+- type: heading
+  label: Admin
 - type: document
   path: content/blog/_index.md
   label: Blog
