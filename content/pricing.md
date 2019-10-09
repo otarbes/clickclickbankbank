@@ -20,7 +20,7 @@ sections:
       url: https://app.clickclickbankbank.com/sign-up
     highlight: false
   - title: Plus
-    price: "$15/m"
+    price: "$15/mo"
     details: |-
       * Unlimited Domains
       * 20,000 Amazon Links
