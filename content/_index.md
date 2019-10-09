@@ -70,7 +70,7 @@ sections:
   type: faqblock
   section_id: faq
   title: FAQ
-  subtitle: frequently asked questions
+  subtitle: Frequently Asked Questions
   faqitems:
   - question: What plan should I chose?
     answer: It depends on the number of websites you manage and the number of Amazon
