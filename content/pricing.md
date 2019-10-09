@@ -29,16 +29,15 @@ sections:
     actions:
     - label: Buy Now
       url: https://app.clickclickbankbank.com/sign-up
-  - title: Enterprise
-    price: "$149/m"
+  - title: Pro
+    price: "$25/m"
     details: |-
-      * Vestibulum non eros quis
-      * Aenean iaculis lorem
-      * Mauris eleifend sapien
-      * Phasellus lobortis risus
+      * Unlimited Domains
+      * 60,000 Amazon affiliate links checked
+      * 24/7 Monitoring & Suppo
     actions:
-    - label: Order Now
-      url: "/signup"
+    - label: Buy Now
+      url: https://app.clickclickbankbank.com/sign-up
     highlight: false
 - type: faqblock
   template: faqblock
