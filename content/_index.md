@@ -83,8 +83,8 @@ sections:
       the “New Scan” button on the top right of your dashboard.
   - question: What is a “link”?
     answer: In our pricing plan, a “link” refers to a unique Amazon product link.
-      If you have identical links for the same product on multiple page, only one
-      link will be deducted from your balance.
+      If you have identical links for the same product on multiple page, we will deduct
+      only one link from your link quota.
   - question: Is there any requirements to use the service?
     answer: In order to use our tool, it is imperative that you already have access
       to the official Amazon Product Advertising API. Please check in your Amazon
