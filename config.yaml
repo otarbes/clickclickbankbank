@@ -25,3 +25,8 @@ params:
     links: []
 disableKinds:
 - RSS
+menu:
+  main:
+  - url: https://www.clickclickbankbank.com/affiliate-program/
+    name: Affiliate Program
+    weight: 4
