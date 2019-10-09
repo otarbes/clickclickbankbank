@@ -30,7 +30,7 @@ sections:
     - label: Buy Now
       url: https://app.clickclickbankbank.com/sign-up
   - title: Pro
-    price: "$25/m"
+    price: "$25/mo"
     details: |-
       * Unlimited Domains
       * 60,000 Amazon Links
