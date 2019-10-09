@@ -20,7 +20,7 @@ sections:
   subtitle: Never promote another unavailable Amazon product again.
   bg: gray
   featureslist:
-  - title: Automatic website links scanner
+  - title: Automatic Website Links Scanner
     content: Automatically scan your entire site and find every Amazon product you
       are promoting. Compatible with Affiliate Link Cloaking tool like AAWP or EasyAzon.
     image: "/images/illustr-1_height.png"
