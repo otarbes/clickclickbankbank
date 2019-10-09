@@ -27,9 +27,9 @@ disableKinds:
 - RSS
 menu:
   main:
-  - url: http://fr.clickclickbankbank.com/
-    name: "|  Fr"
-    weight: 5
   - url: https://www.clickclickbankbank.com/affiliate-program/
     name: Affiliate Program
     weight: 4
+  - url: http://fr.clickclickbankbank.com/
+    name: "|  Fr"
+    weight: 5
