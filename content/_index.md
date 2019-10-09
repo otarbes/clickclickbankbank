@@ -51,10 +51,11 @@ sections:
     semper libero id sodales. '
   bg: white
   reviews:
-  - author: John Doe
+  - author: Guillaume Lécuyer - achetezlemeilleur.com
     avatar: images/review1.jpg
-    content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
-      non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+    content: ClickClickBankBank is amazing. It saved us a ton of time checking all
+      our pages and our links to make sure our products were still available or relevant.
+      We couldn't live without it.
   - author: Jane Roe
     avatar: images/review2.jpg
     content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis,
