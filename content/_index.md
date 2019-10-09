@@ -64,6 +64,14 @@ sections:
     avatar: images/review3.jpg
     content: Integer consectetur purus neque, ac porttitor enim convallis vitae. Interdum
       et malesuada fames ac ante ipsum primis in faucibus.
+- template: faqblock
+  component: faq_block.html
+  bg: gray
+  type: faqblock
+  section_id: ''
+  title: ''
+  subtitle: ''
+  faqitems: []
 - type: ctablock
   template: ctablock
   section_id: call-to-action
@@ -73,14 +81,6 @@ sections:
   actions:
   - label: Sign Up
     url: https://app.clickclickbankbank.com/sign-up
-- template: faqblock
-  component: faq_block.html
-  bg: gray
-  type: faqblock
-  section_id: ''
-  title: ''
-  subtitle: ''
-  faqitems: []
 layout: home
 menu:
   main:
