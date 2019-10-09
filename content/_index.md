@@ -67,12 +67,12 @@ sections:
 - type: ctablock
   template: ctablock
   section_id: call-to-action
-  title: This Is Call To Action Block!
+  title: Ready To Make More Commissions?
   component: cta_block.html
-  subtitle: This is an optional description for the call to action block.
+  subtitle: Join our affiliate program
   actions:
-  - label: Get Started
-    url: "/signup"
+  - label: Sign Up
+    url: https://app.clickclickbankbank.com/sign-up
 - type: postsblock
   template: postsblock
   section_id: recent-posts
