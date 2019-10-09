@@ -18,6 +18,8 @@ in a legally binding way. Capitalized words are defined in the relevant dedicate
 
 The User must read this document carefully.
 
+\--
+
 This Application is provided by:
 
 Ici On Aime Inc.  
