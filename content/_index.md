@@ -7,7 +7,7 @@ sections:
   title: Monitor all your Amazon Affiliate links in one place
   component: hero_block.html
   content: A lightweight tool that scan your websites to track all your Amazon product's
-    links to helps you generate more revenue.
+    links and helps you generate more revenue.
   image: "/images/Hero-screen.png"
   actions:
   - label: Try now
