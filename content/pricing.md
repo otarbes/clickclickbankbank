@@ -19,7 +19,7 @@ sections:
     - label: Buy Now
       url: https://app.clickclickbankbank.com/sign-up
     highlight: false
-  - title: Professional
+  - title: Plus
     price: "$49/m"
     details: |-
       * Unlimited Domains
