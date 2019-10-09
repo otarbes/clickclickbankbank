@@ -31,5 +31,5 @@ menu:
     name: Affiliate Program
     weight: 4
   - url: http://fr.clickclickbankbank.com/
-    name: "|  Fr"
+    name: "|  Fr  | "
     weight: 5
