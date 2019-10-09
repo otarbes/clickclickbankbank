@@ -96,7 +96,8 @@ sections:
       any time in your dashboard.
   - question: Do you offer support if I need help?
     answer: Yes! Top-notch customer support is key for a quality product, so we’ll
-      do our very best to resolve any issues you encounter via our [Slack Channel](https://clickclickbankbank.slack.com).
+      do our very best to resolve any issues you encounter communicating via our [Slack
+      Channel](https://clickclickbankbank.slack.com).
 - type: ctablock
   template: ctablock
   section_id: call-to-action
