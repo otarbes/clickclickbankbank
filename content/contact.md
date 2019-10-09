@@ -2,6 +2,9 @@
 title: Contact
 layout: contact
 menu:
+  main:
+    name: Features
+    weight: 2
   secondary:
     weight: 4
 
