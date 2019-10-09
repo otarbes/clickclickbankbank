@@ -10,7 +10,7 @@ sections:
   bg: gray
   pricingplans:
   - title: Personal
-    price: "$5/m"
+    price: "$5/mo"
     details: |-
       * Unlimited Domains
       * 5,000 Amazon Links
