@@ -22,11 +22,9 @@ sections:
   - title: Professional
     price: "$49/m"
     details: |-
-      * Curabitur non nunc mollis
-      * Duis a purus nec ligula
-      * Pellentesque sit amet
-      * Fusce tempus mi vitae
-      * Nullam sollicitudin ante
+      * Unlimited Domains
+      * 20,000 Amazon affiliate links checked
+      * 24/7 Monitoring & Support
     highlight: true
     actions:
     - label: Buy Now
