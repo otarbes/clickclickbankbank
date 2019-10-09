@@ -31,5 +31,8 @@ sections:
   - label: Get Started
     url: "#"
 layout: features
+menu:
+  main:
+    weight: 2
 
 ---
