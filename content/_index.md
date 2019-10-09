@@ -91,8 +91,9 @@ sections:
       Affiliate Account to ensure that you are able to create API keys before you
       buy.
   - question: What is your refund/cancellation policy?
-    answer: We will accept your request for refund if you haven’t started any scan
-      in your account. You can change or cancel your plan at any time in your dashboard.
+    answer: We will accept your refund request for free for 7 days or if you haven’t
+      started any scan in your account. You can also change or cancel your plan at
+      any time in your dashboard.
 - type: ctablock
   template: ctablock
   section_id: call-to-action
