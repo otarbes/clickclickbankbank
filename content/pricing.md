@@ -34,7 +34,7 @@ sections:
     details: |-
       * Unlimited Domains
       * 60,000 Amazon Links
-      * 24-7 Monitoring & Suppo
+      * 24-7 Monitoring & Support
     actions:
     - label: Buy Now
       url: https://app.clickclickbankbank.com/sign-up
