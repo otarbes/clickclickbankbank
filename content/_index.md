@@ -72,15 +72,15 @@ sections:
   title: FAQ
   subtitle: Frequently Asked Questions
   faqitems:
-  - question: What plan should I chose?
+  - question: What plan should I choose?
     answer: It depends on the number of websites you manage and the number of Amazon
       affiliate links you need to check. Let’s say you are promoting 100 Amazon products
       on your website, and you want to check them every 3 days. The Personal plan
       will be just fine!
   - question: How often are my links checked?
-    answer: There is no automatic scan and check of your links, as we don’t want to
-      use your link quota unnecessarily. For every scan, you will just have to click
-      on “New Scan” your dashboard.
+    answer: There is no automatic links' scans and checks as we don’t want to use
+      your link quota unnecessarily. For every scan, you will just have to click on
+      “New Scan” on your dashboard.
   - question: What is a “link”?
     answer: In our pricing above, a “link” refers one Amazon product link. If you
       have several links to the same product multiple page, only one link will be
