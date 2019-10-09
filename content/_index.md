@@ -73,13 +73,14 @@ sections:
   actions:
   - label: Sign Up
     url: https://app.clickclickbankbank.com/sign-up
-- type: postsblock
-  template: postsblock
-  section_id: recent-posts
-  title: Latest Posts
-  component: posts_block.html
+- template: faqblock
+  component: faq_block.html
   bg: gray
+  type: faqblock
+  section_id: ''
+  title: ''
   subtitle: ''
+  faqitems: []
 layout: home
 menu:
   main:
