@@ -7,7 +7,7 @@ title = "Terms of Use"
 weight = 2
 
 +++
-# Terms and Conditions of **clickclickbankbank.com**
+**Terms and Conditions of clickclickbankbank.com**
 
 These Terms govern
 
@@ -30,24 +30,14 @@ Canada
 "This Application" refers to
 
 * this website, including its subdomains and any other website through which the Owner makes its Service available;
-
-
 * applications for mobile, tablet and other smart device systems;
-
-
 * the Service;
-
-
 * any applications, sample and content files, source code, scripts, instruction sets or software included as part of the Service, as well as any related documentation;
 
 ## What the User should know at a glance
 
 * Please note that some provisions in these Terms may only apply to certain categories of Users. In particular, certain provisions may only apply to Consumers or to those Users that do not qualify as Consumers. Such limitations are always explicitly mentioned within each affected clause. In the absence of any such mention, clauses apply to all Users.
-
-
 * This Application uses automatic renewal for Product subscriptions. Information about the a) renewal period, b) termination details and c) termination notice can be found in the relevant section of these Terms.
-
-
 * The right of withdrawal only applies to European Consumers. The right of withdrawal, also commonly called the right of cancellation in the UK, is consistently referred to as “the right of withdrawal” within this document.
 
 ***
@@ -77,8 +67,6 @@ Users are required to immediately and unambiguously inform the Owner via the con
 Users can terminate their account and stop using the Service at any time by doing the following:
 
 * By using the tools provided for account termination on this Application.
-
-
 * By directly contacting the Owner at the contact details provided in this document.
 
 #### Account suspension and deletion
