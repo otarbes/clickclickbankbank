@@ -9,16 +9,16 @@ sections:
   subtitle: You can have a separate pricing page or list everything on the home page.
   bg: gray
   pricingplans:
-  - title: Basic
+  - title: Personal
     price: "$5/m"
     details: |-
-      * Lorem ipsum dolor sit amet
-      * Mauris a mi tincidunt
-      * Suspendisse ut lacus
-      * Etiam eget dui a augue
+      * Unlimited Domains
+      * 5,000 Amazon affiliate links checked
+      * 24/7 Monitoring & Support
     actions:
-    - label: Order Now
-      url: "/signup"
+    - label: Buy Now
+      url: https://app.clickclickbankbank.com/sign-up
+    highlight: false
   - title: Professional
     price: "$49/m"
     details: |-
@@ -41,6 +41,7 @@ sections:
     actions:
     - label: Order Now
       url: "/signup"
+    highlight: false
 - type: faqblock
   template: faqblock
   section_id: faq
