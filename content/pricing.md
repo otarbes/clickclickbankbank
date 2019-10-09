@@ -29,8 +29,8 @@ sections:
       * Nullam sollicitudin ante
     highlight: true
     actions:
-    - label: Order Now
-      url: "/signup"
+    - label: Buy Now
+      url: https://app.clickclickbankbank.com/sign-up
   - title: Enterprise
     price: "$149/m"
     details: |-
