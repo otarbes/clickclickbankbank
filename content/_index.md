@@ -96,8 +96,8 @@ sections:
       plan at any moment within your Plan & Billing section.
   - question: Do you offer support if I need help?
     answer: Yes! Top-notch customer support is key for a quality product, so we’ll
-      do our very best to resolve any issues you encounter communicating via our [Slack
-      Channel](https://clickclickbankbank.slack.com).
+      do our very best to resolve any issues you encounter communicating via our Support
+      Platform.
 - type: ctablock
   template: ctablock
   section_id: call-to-action
