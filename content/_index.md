@@ -81,8 +81,10 @@ sections:
     answer: There is no automatic scan and check of your links, as we don’t want to
       use your link quota unnecessarily. For every scan, you will just have to click
       on “New Scan” your dashboard.
-  - question: ''
-    answer: ''
+  - question: What is a “link”?
+    answer: In our pricing above, a “link” refers one Amazon product link. If you
+      have several links to the same product multiple page, only one link will be
+      deducted from your balance.
   - question: ''
     answer: ''
   - question: ''
