@@ -72,10 +72,11 @@ sections:
   title: FAQ
   subtitle: frequently asked questions
   faqitems:
-  - question: Question 1
-    answer: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  - question: What plan should I chose?
+    answer: It depends on the number of websites you manage and the number of Amazon
+      affiliate links you need to check. Let’s say you are promoting 100 Amazon products
+      on your website, and you want to check them every 3 days. The Personal plan
+      will be just fine!
 - type: ctablock
   template: ctablock
   section_id: call-to-action
