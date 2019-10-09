@@ -25,5 +25,4 @@ fields:
     required: true
 pages:
 - content/style-guide.md
-- content/signup.md
 - content/about.md
