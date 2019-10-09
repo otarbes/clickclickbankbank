@@ -15,57 +15,57 @@ This Application collects some Personal Data from its Users.
 
 ## Personal Data collected for the following purposes and using the following services:
 
-* **Advertising**
-  * **Facebook Lookalike Audience**
+**Advertising  
+**Facebook Lookalike Audience**  
+**Personal Data: Cookies; Usage Data
 
-    Personal Data: Cookies; Usage Data
-  1. **Analytics**
-     * **Google Analytics and Google Analytics with anonymized IP**
+**Analytics  
+**Google Analytics and Google Analytics with anonymized IP**  
+**Personal Data: Cookies; Usage Data
 
-       Personal Data: Cookies; Usage Data
-  2. **Commercial affiliation**
-     * **Lead Dyno**
+**Commercial affiliation  
+**Lead Dyno**  
+**Personal Data: Cookies; email address; first name; last name; Usage Data
 
-       Personal Data: Cookies; email address; first name; last name; Usage Data
-  3. **Contacting the User**
-     * **Contact form**
+**Contacting the User  
+**Contact form**  
+**Personal Data: company name; email address; first name; last name; phone number; website; ZIP/Postal code
 
-       Personal Data: company name; email address; first name; last name; phone number; website; ZIP/Postal code
-  4. **Displaying content from external platforms**
-     * **Google Fonts**
+**Displaying content from external platforms  
+**Google Fonts**  
+**Personal Data: Usage Data; various types of Data as specified in the privacy policy of the service
 
-       Personal Data: Usage Data; various types of Data as specified in the privacy policy of the service
-  5. **Handling payments**
-     * **Stripe**
+**Handling payments  
+**Stripe**  
+**Personal Data: various types of Data as specified in the privacy policy of the service
 
-       Personal Data: various types of Data as specified in the privacy policy of the service
-  6. **Remarketing and behavioral targeting**
-     * **Facebook Remarketing**
+**Remarketing and behavioral targeting**
 
-       Personal Data: Cookies; Usage Data
-     * **Facebook Custom Audience**
+Facebook Remarketing**  
+**Personal Data: Cookies; Usage Data
 
-       Personal Data: Cookies; email address
+Facebook Custom Audience**  
+**Personal Data: Cookies; email address
 
 ## Further information about Personal Data
 
-* **Selling goods and services online**
+**Selling goods and services online**
 
-  The Personal Data collected are used to provide the User with services or to sell goods, including payment and possible delivery.  
-  The Personal Data collected to complete the payment may include the credit card, the bank account used for the transfer, or any other means of payment envisaged. The kind of Data collected by this Application depends on the payment system used.
+The Personal Data collected are used to provide the User with services or to sell goods, including payment and possible delivery.  
+The Personal Data collected to complete the payment may include the credit card, the bank account used for the transfer, or any other means of payment envisaged. The kind of Data collected by this Application depends on the payment system used.
 
 ## Contact information
 
-* **Owner and Data Controller**
+**Owner and Data Controller**
 
-  Ici On Aime Inc.  
-  8815 Av. du Parc, Suite 402  
-  Montréal QC H2N 1Y7  
-  Canada
+Ici On Aime Inc.  
+8815 Av. du Parc, Suite 402  
+Montréal QC H2N 1Y7  
+Canada
 
-  **Owner contact email:** contact@clickclickbankbank.com
+**Owner contact email:** contact@clickclickbankbank.com
 
-## Full policy
+#### Full policy
 
 ## Owner and Data Controller
 
