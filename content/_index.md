@@ -68,7 +68,7 @@ sections:
   component: faq_block.html
   bg: gray
   type: faqblock
-  section_id: ''
+  section_id: faq
   title: FAQ
   subtitle: frequently asked questions
   faqitems:
