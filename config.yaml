@@ -4,7 +4,7 @@ baseURL: "/"
 params:
   palette: blue
   header:
-    title: Azimuth
+    title: ClickClickBankBank
     logo_img: "/images/ccbb_land_740.png"
     has_nav: true
     menu:
