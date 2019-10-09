@@ -47,8 +47,7 @@ sections:
   section_id: reviews
   title: Testimonials
   component: reviews_block.html
-  subtitle: 'Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-    semper libero id sodales. '
+  subtitle: ''
   bg: white
   reviews:
   - author: Guillaume Lécuyer - achetezlemeilleur.com
