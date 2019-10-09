@@ -4,7 +4,7 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  title: Monitor all your Amazon Affiliate links in one place
+  title: Monitor all your Amazon Affiliate Links in one place
   component: hero_block.html
   content: A lightweight tool that scan your websites to track all your Amazon product's
     links and helps you generate more revenue.
