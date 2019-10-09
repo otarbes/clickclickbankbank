@@ -79,8 +79,8 @@ sections:
       will be just fine!
   - question: How often are my links checked?
     answer: There is no automatic links' scans and checks as we don’t want to use
-      your link quota unnecessarily. For every scan, you will just have to click on
-      “New Scan” on your dashboard.
+      your link quota unnecessarily. Scans could be launched manually, clicking on
+      the “New Scan” button on the top right of your dashboard.
   - question: What is a “link”?
     answer: In our pricing above, a “link” refers one Amazon product link. If you
       have several links to the same product multiple page, only one link will be
