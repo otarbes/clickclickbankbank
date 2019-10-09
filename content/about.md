@@ -1,8 +1,8 @@
 ---
-title: Help
+title: Support
 subtitle: This is an optional subtitle. It can be used to describe what this page
   is about.
-img_path: images/about.jpg
+img_path: "/images/app-marketing-illustration-03.png"
 layout: page
 menu:
   main:
