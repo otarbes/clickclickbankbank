@@ -86,10 +86,10 @@ sections:
       If you have identical links for the same product on multiple page, we will deduct
       only one link from your link quota.
   - question: Is there any requirements to use the service?
-    answer: In order to use our tool, it is imperative that you already have access
-      to the official Amazon Product Advertising API. Please check in your Amazon
-      Affiliate Account to ensure that you are able to create API keys before you
-      buy.
+    answer: Yes! In order to use our tool, you will be required to provide your official
+      Amazon Product Advertising API Key. Please check in your Amazon Affiliate Account
+      to ensure that you are able to create API keys, before you buy any ClickClickBankBank
+      Plan.
   - question: What is your refund/cancellation policy?
     answer: We will accept your refund request for free for 7 days or if you haven’t
       started any scan in your account. You can also change or cancel your plan at
