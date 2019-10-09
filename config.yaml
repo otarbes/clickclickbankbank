@@ -11,8 +11,6 @@ params:
       actions:
       - label: Sign Up
         url: https://app.clickclickbankbank.com/sign-up
-      - label: FR
-        url: http://fr.clickclickbankbank.com/
   footer:
     logo_img: "/images/ccbb_land_740.png"
     tagline: Amazon Affiliate Links Monitoring Tool
@@ -27,11 +25,3 @@ params:
     links: []
 disableKinds:
 - RSS
-menu:
-  main:
-  - url: http://fr.clickclickbankbank.com/
-    name: "|  Fr"
-    weight: 5
-  - url: https://www.clickclickbankbank.com/affiliate-program/
-    name: Affiliate Program
-    weight: 4
