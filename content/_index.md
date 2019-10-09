@@ -91,9 +91,9 @@ sections:
       to ensure that you are able to create API keys, before you buy any ClickClickBankBank
       Plan.
   - question: What is your refund/cancellation policy?
-    answer: We will accept your refund request for free for 7 days or if you haven’t
-      started any scan in your account. You can also change or cancel your plan at
-      any time in your dashboard.
+    answer: Refund are for free for 7 days or anytime if you did not start any scan
+      in your account. You can also change or cancel your plan at any time in your
+      dashboard.
   - question: Do you offer support if I need help?
     answer: Yes! Top-notch customer support is key for a quality product, so we’ll
       do our very best to resolve any issues you encounter communicating via our [Slack
