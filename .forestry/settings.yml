@@ -30,7 +30,7 @@ sections:
   templates:
   - social
 - type: heading
-  label: Admin
+  label: References
 - type: document
   path: content/blog/_index.md
   label: Blog
@@ -53,6 +53,8 @@ sections:
   label: Features
   templates:
   - features
+- type: heading
+  label: Admin
 - type: document
   path: data/author.json
   label: Author
