@@ -101,7 +101,7 @@ sections:
 - type: ctablock
   template: ctablock
   section_id: call-to-action
-  title: Ready To Make More Commissions?
+  title: Ready To Make More Revenue?
   component: cta_block.html
   subtitle: 7 days money-back guarantee
   actions:
