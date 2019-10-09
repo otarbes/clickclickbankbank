@@ -1,5 +1,4 @@
 +++
-draft = true
 img_path = "/images/app-marketing-illustration-03.png"
 layout = "page"
 subtitle = "This is an optional subtitle. It can be used to describe what this page is about."
