@@ -17,4 +17,4 @@ weight = 1
 * Payouts are available after passing the minimum amount of 50$ in commission
 * Receive payouts via PayPal
 
-[Get Started](http://affiliates.clickclickbankbank.com)
+[**Get Started**](http://affiliates.clickclickbankbank.com)
