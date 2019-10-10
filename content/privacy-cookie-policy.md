@@ -4,7 +4,7 @@ layout = "page"
 subtitle = ""
 title = "Privacy & Cookie Policy"
 [menu.secondary]
-weight = 2
+weight = 3
 
 +++
 **Privacy Policy of clickclickbankbank.com**

@@ -5,6 +5,8 @@ subtitle = "The text shown below the page title."
 title = "Affiliate Program"
 [menu.main]
 weight = 4
+[menu.secondary]
+weight = 1
 
 +++
 Lorem ipsum dolor sit amet, cu eum fugit fierent repudiandae, no sed vide utinam. Nam id sale natum, magna salutatus per cu. Quaestio efficiantur vel id, tamquam appetere deseruisse cum ea. Nam consetetur consequuntur eu, et prima postea graeci vis. Eros labores sadipscing mei at, ex possit incorrupte mea.
