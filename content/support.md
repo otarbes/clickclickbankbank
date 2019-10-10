@@ -11,7 +11,7 @@ weight = 3
 
 Here you can find a roundup of the most asked questions by users and the corresponding answers. We grouped the questions and answers in order to make it more comfortable to find the right one. Of course we are going to update this collection regularly.
 
-[Go to the FAQs](#)
+[Go to the FAQs](/faq)
 
 ### Support Ticket
 
