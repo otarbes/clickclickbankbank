@@ -64,6 +64,44 @@ sections:
     avatar: images/review3.jpg
     content: Integer consectetur purus neque, ac porttitor enim convallis vitae. Interdum
       et malesuada fames ac ante ipsum primis in faucibus.
+- template: pricingblock
+  component: pricing_block.html
+  bg: gray
+  type: pricingblock
+  section_id: pricing
+  title: It all starts with a plan
+  subtitle: 7 Day Money Back Guarantee
+  pricingplans:
+  - title: Personal
+    details: |-
+      * Unlimited Domains
+      * 5,000 Amazon Links
+      * 24-7 Monitoring & Support
+    highlight: false
+    actions:
+    - label: Buy Now
+      url: https://app.clickclickbankbank.com/sign-up
+    price: "$5/mo"
+  - title: Plus
+    price: "$15/mo"
+    details: |-
+      * Unlimited Domains
+      * 20,000 Amazon Links
+      * 24-7 Monitoring & Support
+    highlight: true
+    actions:
+    - label: Buy Now
+      url: https://app.clickclickbankbank.com/sign-up
+  - title: Pro
+    price: "$25/mo"
+    details: |-
+      * Unlimited Domains
+      * 60,000 Amazon Links
+      * 24-7 Monitoring & Support
+    highlight: false
+    actions:
+    - label: Buy Now
+      url: https://app.clickclickbankbank.com/sign-up
 - template: faqblock
   component: faq_block.html
   bg: gray
