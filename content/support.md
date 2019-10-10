@@ -19,4 +19,4 @@ Before opening a support ticket please be so kind and go through our FAQs which 
 
 In case your issue couldn't be solved after this, feel free to contact us and we're going to find a solution for you!
 
-[Create a support ticket](#)
+Just click on the green '?' on the bottom right of the screen and create your ticket.
