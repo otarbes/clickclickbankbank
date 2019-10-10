@@ -18,7 +18,7 @@ sections:
   - pricing
 - type: directory
   path: content
-  label: Page
+  label: Pages
   create: all
   match: "**/*"
   exclude: "{posts/**,_index.md,pricing.md,features.md,blog/_index.md,contact.md}"
@@ -32,27 +32,27 @@ sections:
 - type: heading
   label: References
 - type: document
-  path: content/blog/_index.md
-  label: Blog
-  templates:
-  - blog
-- type: document
   path: content/contact.md
   label: Contact
   templates:
   - contact
-- type: directory
-  path: content/posts
-  label: Post
-  create: all
-  match: "**/*"
-  templates:
-  - post
 - type: document
   path: content/features.md
   label: Features
   templates:
   - features
+- type: document
+  path: content/blog/_index.md
+  label: Blog
+  templates:
+  - blog
+- type: directory
+  path: content/posts
+  label: Posts
+  create: all
+  match: "**/*"
+  templates:
+  - post
 - type: heading
   label: Admin
 - type: document
