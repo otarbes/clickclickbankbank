@@ -1,7 +1,7 @@
 +++
 img_path = ""
 layout = "page"
-subtitle = "The text shown below the page title."
+subtitle = ""
 title = "Help & Support"
 [menu.main]
 weight = 3
