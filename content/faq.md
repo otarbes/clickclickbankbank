@@ -5,26 +5,19 @@ subtitle = ""
 title = "FAQ"
 
 +++
-#### What plan should I choose?
+## FAQ – General Questions
 
-It depends on the number of websites you manage and the number of Amazon affiliate links you need to check. Let’s say you are promoting 100 Amazon products on your website, and you want to check them every 3 days. The Personal plan will be just fine!
+### Technical requirements
 
-#### How often are my links checked?
+Due to the fact that our app is not connected in any way with your website, our app works with all kind of websites and CMS platforms. The only pre-requisite is that your hosting provider has not implemented aggressive rate limiting rules. Rate limiting is a frequently used tool to defend against network and application-level DDoS attacks against websites. If this is the case, ask your hosting provider to whitelist the following user-agent : AffiliateLink. If you encountered an unexpected issue, don’t worry. Most of the time this can be fixed quickly by contacting us at support@clickclickbankbank.com. Feel free to get in touch with us and we would be happy to assist you. In order to use our tool, it is also imperative that you already have access to the official Amazon Product Advertising API. Please check in your Amazon Affiliate Account to ensure that you are able to create API keys before you buy.
 
-There is no automatic links’ scans and checks as we don’t want to use your link quota unnecessarily. Scans could be launched manually, clicking on the “New Scan” button on the top right of your dashboard.
+### Do you have a demo or trial?
 
-#### What is a “link”?
+We don’t have any demo but we do have several live demonstrations, screenshots of the app settings, a list of features and our support team is available to answer any questions you may have.
 
-In our pricing plan, a “link” refers to a unique Amazon product link. If you have identical links for the same product on multiple page, we will deduct only one link from your link quota.
+We also offer a 7 day money back guarantee which allows you to dig into the tool, try it out on your site and see how it works for you.
 
-#### Is there any requirements to use the service?
+### What is your refund/cancellation policy?
 
-Yes! In order to use our tool, you will be required to provide your official Amazon Product Advertising API Key. Please check in your Amazon Affiliate Account to ensure that you are able to create API keys, before you buy any ClickClickBankBank Plan.
-
-#### What is your refund/cancellation policy?
-
-Refund are for available for 7 days after signup, or anytime if you did not start any scan in your account. Note that you can change or cancel your plan at any moment within your Plan & Billing section.
-
-#### Do you offer support if I need help?
-
-Yes! Top-notch customer support is key for a quality product, so we’ll do our very best to resolve any issues you encounter communicating via our Support Platform.
+We will accept your request for refund is you haven’t started any scan in your account.  
+You can change or cancel your plan at any time in your dashboard.
