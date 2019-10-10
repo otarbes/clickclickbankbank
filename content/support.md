@@ -3,6 +3,8 @@ img_path = ""
 layout = "page"
 subtitle = "The text shown below the page title."
 title = "Support"
+[menu.main]
+weight = 3
 
 +++
 Lorem ipsum dolor sit amet, cu eum fugit fierent repudiandae, no sed vide utinam. Nam id sale natum, magna salutatus per cu. Quaestio efficiantur vel id, tamquam appetere deseruisse cum ea. Nam consetetur consequuntur eu, et prima postea graeci vis. Eros labores sadipscing mei at, ex possit incorrupte mea.
