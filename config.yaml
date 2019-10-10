@@ -18,7 +18,7 @@ params:
     nav_title: Company
     has_social: true
     social_title: Community
-    has_subscribe: true
+    has_subscribe: false
     subscribe_title: Subscribe
     subscribe_content: Stay up to date with our latest developments.
     content: "&copy; ClickClickBankBank. All rights reserved."
@@ -27,6 +27,9 @@ disableKinds:
 - RSS
 menu:
   main:
+  - url: https://www.clickclickbankbank.com/affiliate-program/
+    name: Affiliate Program
+    weight: 4
   - url: http://fr.clickclickbankbank.com/
     name: "|  Fr  | "
     weight: 5
