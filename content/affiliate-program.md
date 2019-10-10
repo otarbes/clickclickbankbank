@@ -1,5 +1,5 @@
 +++
-img_path = "/images/app-marketing-illustration-03-500x352.png"
+img_path = ""
 layout = "page"
 subtitle = "Recommend ClickClickBankBank and earn money: get 30% recurring commission for each new customer!"
 title = "Affiliate Program"
@@ -16,6 +16,8 @@ Write or speak about our tool, refer new customers and earn 30% commission on al
 ### Statistics
 
 Affiliates have access to their latest numbers, such as: Referred visitors, customers, your conversion rate, campaigns or payouts.
+
+![](/images/app-marketing-illustration-03-500x352.png)
 
 ### Your Affiliate Benefits
 
