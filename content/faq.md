@@ -1,11 +1,11 @@
 +++
-img_path = "/images/app-marketing-illustration-03.png"
+img_path = ""
 layout = "page"
 subtitle = ""
 title = "FAQ"
 
 +++
-## FAQ – General Questions
+## General Questions
 
 ### Technical requirements
 
