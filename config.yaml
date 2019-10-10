@@ -27,6 +27,6 @@ disableKinds:
 - RSS
 menu:
   main:
-  - url: http://fr.clickclickbankbank.com/
+  - url: https://fr.clickclickbankbank.com/
     name: "|  FR  | "
     weight: 5
