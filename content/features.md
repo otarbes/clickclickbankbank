@@ -31,5 +31,6 @@ sections:
   - label: Get Started
     url: "#"
 layout: features
+draft: true
 
 ---
