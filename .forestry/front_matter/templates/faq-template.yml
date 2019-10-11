@@ -1,4 +1,14 @@
 ---
 label: FAQ Template
 hide_body: true
-fields: []
+fields:
+- name: page
+  type: include
+  config: {}
+  template: page
+  label: Page
+- name: faq_section
+  type: include
+  config: {}
+  template: faqblock
+  label: FAQ Section
