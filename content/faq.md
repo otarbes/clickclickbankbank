@@ -178,3 +178,55 @@ United States	[https://affiliate-program.amazon.com/gp/flex/advertising/api/sign
 ![](/images/amazon-affiliate-wordpress-plugin-docs-signup-amazon-api.png)
 
 On this page click on “Sign up” on the right and fill in registration. It’s possible to use your existing Amazon account if you don’t mind.
+
+***
+
+## Affiliate Program
+
+### What is the ClicklickBankBank affiliate program and how does it work?
+
+ClickClickBankBank affiliate program is a partnership based on revenue sharing, where the affiliate (you) drives traffic to clickclickbankbank.com website (us, we or our) in exchange for commissions. When your website visitor clicks on the reference link (as defined in our ClickClickBankBank Affiliate Program Terms) to our website and completes a purchase, you get a commission for any and every ClickClickBrankBank subscription they buy.  
+To help you reach this goal, we provide a variety of promo materials in 2 languages, tracking, reporting, prompt monthly payments and excellent customer support.
+
+### **What do I get as an affiliate?**
+
+As our affiliate, you will gain access to your own personal account. You can log in at any time andget access to our banners and links, see how your reference links are performing: how many visits, signups sales and rebills came to us through your reference link and of course you will also be able to see your balance and how much money you earned both in the past and in the present.
+
+### Who can join your affiliate program?
+
+Anyone who has an active website at the time of sign up can join ClickClickBankBank affiliate program, with an exception of websites that contain pornography, explicit language or content, violence, hate speech, promote illegal activities, gambling, coupons, bargains or discounts, violate intellectual property rights or laws, contain materials that are defamatory, libelous, or disparaging or links to any content listed here. Please note, that you have to be at least 18 years old to join. We also reserve the right to refuse or revoke membership of parked domains; websites with little or no original content, or those that are inactive.
+
+If you don't have a website, you can still share your reference link via e-mail, post videos or promote ClickClickBankBank through social networks, such as Facebook, Twitter, etc. We have affiliates from all over the world and most our affiliates sell our services across the globe. The signup process is completely free and only takes several minutes of your time.
+
+### What is the reference link?
+
+A reference link is the link, which leads to www.clickclickbankbank.com and contains your ClickClickBankBank reference identification number (REF ID) in it.
+
+### Where can I use the reference link?
+
+You can use it on your website, blog, in non-spam emails, social profiles and in your messages, sent via messengers (SPAMMING is forbidden and is severely punishable).
+
+### How much will I earn for bringing referrals?
+
+By participating in our affiliate program you will earn 30% commission for all newly acquired ClickClickBankBank subscription purchases that came through your reference link. Commissions are recurring,so you will get 30% of what your referral pays us every month until they stop paying for our subscription.  
+Please note that this applies only to brand new, first time users you refer. Old, existing or returning ClickClickBankBank subscribers are not eligible referrals.
+
+### Can I earn commissions with my own purchases?
+
+Nice try, but no. You will not receive the commission for purchasing ClickClickBankBank subscription through your own reference link. Moreover, if you signed up just to get the 30% discount for yourself, your account will be blocked and you will not receive commission for this or any future purchases.
+
+### How do you attribute a commissions if there are multiple affiliates involved?
+
+We use first cookie attribution model, so if a user originally landed on our website from your reference link, then you will receive commission on all their purchases from www.clickclickbankbank.com, provided that the cookie life period didn’t expire. So if the referral is originally yours, you will receive commission from their account renewals, after gaps in payments, as well as for their upgrades.
+
+### How and when do I get paid?
+
+Commission payments are made upon reaching a minimum threshold of $50. If you haven’t reached it yet, the amount will be transferred to the next payout period. Payments are made on the 10th and 25th days of each month, when your account balance reaches $50 or more for the previous months’ transactions. There might be slight deviations from these dates, if the 10th or 25th days fall on weekends or public holidays. In cases like these, please expect the commission payment to reach you on Monday (after the weekend) or on the first workday following a public holiday. Payments are processed through PayPal.
+
+### How do I track my earnings?
+
+You can login to your ClickClickBankBank affiliate profile at any time to access your statistics and get updated information about any commission that you’ve earned. In your statistics you will be able to see the date, visits, unique visits, sign ups, sales, sales amount, rebills (repeat payments), rebills amount and your profit. Additionally, you can see your current Balance and all payments that we already made to you.
+
+### What if I had a question not covered here?
+
+If you have a specific question or a collaboration proposal, please feel free to mail us directly at affiliates@clickclickbankbank.com.
