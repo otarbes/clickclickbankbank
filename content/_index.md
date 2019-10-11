@@ -55,11 +55,11 @@ sections:
     content: ClickClickBankBank is amazing. It saved us a ton of time checking all
       our pages and our links to make sure our products were still available or relevant.
       We couldn't live without it.
-  - author: Jane Roe
-    avatar: images/review2.jpg
-    content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis,
-      interdum ligula vel, pretium diam. Integer commodo sem at dui sollicitudin,
-      vel posuere justo laoreet.
+  - author: David Harris - thepetsmaster.com
+    avatar: "/images/david_harris.jpg"
+    content: If you are looking to increase your Amazon associates revenues, this
+      is a must-have. Before using it I used to have 24% of out of stock products
+      on my website!
   - author: Richard Roe
     avatar: images/review3.jpg
     content: Integer consectetur purus neque, ac porttitor enim convallis vitae. Interdum
