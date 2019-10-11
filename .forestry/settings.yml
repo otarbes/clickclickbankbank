@@ -23,6 +23,7 @@ sections:
   match: "**/*"
   exclude: "{posts/**,_index.md,pricing.md,features.md,blog/_index.md,contact.md}"
   templates:
+  - faq-template
   - page
 - type: document
   path: data/social.json
