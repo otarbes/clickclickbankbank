@@ -6,7 +6,7 @@ sections:
   section_id: pricing
   title: Pricing Plans
   component: pricing_block.html
-  subtitle: You can have a separate pricing page or list everything on the home page.
+  subtitle: 7 Day Money Back Guarantee
   bg: gray
   pricingplans:
   - title: Personal
