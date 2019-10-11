@@ -52,9 +52,9 @@ sections:
   reviews:
   - author: Guillaume Lécuyer - achetezlemeilleur.com
     avatar: "/images/Guillaume Lecuyer.jpg"
-    content: ClickClickBankBank is amazing. It saved us a ton of time checking all
-      our pages and our links to make sure our products were still available or relevant.
-      We couldn't live without it.
+    content: This tool saved us a ton of time checking all our pages and our links
+      to make sure our products were still available or relevant. We couldn't live
+      without it.
   - author: David Harris - thepetsmaster.com
     avatar: "/images/david_harris.jpg"
     content: If you are looking to increase your Amazon associates revenues, this
