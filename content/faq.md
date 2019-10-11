@@ -97,6 +97,29 @@ On the diagram you will find the following information:
 * Stock: Inventory available as stated in the Amazon Product Advertising API
 * Amazon link: Link displayed on your website
 
+**LINK REPORT**
+
+When you click on a link from the scan report, you will access to more detailed information for this link : 
+
+* product name associated to this link
+* ASIN
+* inventory status
+* available stock.
+
+![](/images/link report 1.png)
+
+Then you will have some additional info regarding your website and the pages that are hosting this link :
+
+* Crawl date
+* Domain crawled
+* Pages where we found this link
+
+![](/images/link report 2.png)
+
+If we found other links for the same products, they also be listed here so you know all the pages and links that need to be updated.
+
+![](/images/link report 3.png)
+
 ### How often my links are checked?
 
 There is no automatic scan and check of your links, as we don’t want to use your link quota unnecessarily. For every scan, you will just have to click on “New Scan” your dashboard.
