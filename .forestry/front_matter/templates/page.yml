@@ -24,7 +24,6 @@ fields:
   config:
     required: true
 pages:
-- content/faq-test.md
 - content/faq.md
 - content/support.md
 - content/affiliate-program.md

@@ -12,3 +12,5 @@ fields:
   config: {}
   template: faqblock
   label: FAQ Section
+pages:
+- content/faq-test.md
