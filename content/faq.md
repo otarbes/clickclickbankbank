@@ -21,6 +21,8 @@ We also offer a 7 day money back guarantee which allows you to dig into the tool
 
 Refund are for available for 7 days after signup, or anytime if you did not start any scan in your account. Note that you can change or cancel your plan at any moment within your Plan & Billing section.
 
+***
+
 ## Getting Started
 
 ### Quickstart
@@ -98,3 +100,81 @@ On the diagram you will find the following information:
 ### How often my links are checked?
 
 There is no automatic scan and check of your links, as we don’t want to use your link quota unnecessarily. For every scan, you will just have to click on “New Scan” your dashboard.
+
+***
+
+## Amazon Product Advertising API
+
+### Creating Credentials for Amazon Product Advertising API
+
+**Create Credentials**
+
+![](/images/amazon-associates-api-tools.png)
+
+Your credentials can be created directly in your Amazon Associates account.
+
+In case you’re using another local Associates program, your url might be different.
+
+![](/images/amazon-associates-credentials-1.png)
+
+In case you don’t have credentials yet, please click on the button “Add Credentials”.
+
+If you can not create credentials here, your Associates account does not yet meet all requirements. Recently, new affiliates must have generated at least 3 sales before gaining access to the API.
+
+**Download Credentials**
+
+![](/images/amazon-associates-credentials-download.png)
+
+After your credentials were generated, you can view and download them.
+
+Please be aware that you can not view your credentials later again. That’s why you should download and save them to a secure place on your **computer.**
+
+**Manage Credentials**
+
+![](/images/amazon-associates-credentials-manage-1.png)
+
+All previously credentials will be shown in your Amazon Associates account.
+
+Existing credentials may be deleted, but your secrets cannot be seen again.
+
+In case you don’t know your credentials anymore, please create new one (note that there’s a maximum limit of 2 active pairs of credentials).
+
+### Amazon API “not connected” – Frequent causes
+
+In case the app was not able to establish a connection to the Amazon API, here are some of the most frequent causes:
+
+* You haven’t been signed up for the Amazon Product Advertising API yet
+* API access and/or secret key are invalid
+* The email you’re using to login to the AWS area and Amazon Associates are not the same
+
+### Signup for Amazon API
+
+If you don’t have signed up for the Amazon Product Advertising API until now, let’s do it together.
+
+Brazil	[http://associados.amazon.com.br/gp/associates/apply/main.html](http://associados.amazon.com.br/gp/associates/apply/main.html "http://associados.amazon.com.br/gp/associates/apply/main.html")
+
+Canada	[https://associates.amazon.ca/gp/flex/advertising/api/sign-in.html](https://associates.amazon.ca/gp/flex/advertising/api/sign-in.html "https://associates.amazon.ca/gp/flex/advertising/api/sign-in.html")
+
+China	[https://associates.amazon.cn/gp/advertising/api/detail/main.html](https://associates.amazon.cn/gp/advertising/api/detail/main.html "https://associates.amazon.cn/gp/advertising/api/detail/main.html")
+
+France	[https://partenaires.amazon.fr/gp/flex/advertising/api/sign-in.html](https://partenaires.amazon.fr/gp/flex/advertising/api/sign-in.html "https://partenaires.amazon.fr/gp/flex/advertising/api/sign-in.html")
+
+Germany	[https://partnernet.amazon.de/gp/flex/advertising/api/sign-in.html](https://partnernet.amazon.de/gp/flex/advertising/api/sign-in.html "https://partnernet.amazon.de/gp/flex/advertising/api/sign-in.html")
+
+India	[http://affiliate-program.amazon.in/gp/associates/apply/main.html](http://affiliate-program.amazon.in/gp/associates/apply/main.html "http://affiliate-program.amazon.in/gp/associates/apply/main.html")
+
+Italy	[https://programma-affiliazione.amazon.it/gp/advertising/api/detail/main.html](https://programma-affiliazione.amazon.it/gp/advertising/api/detail/main.html "https://programma-affiliazione.amazon.it/gp/advertising/api/detail/main.html")
+
+Japan	[https://affiliate-program.amazon.com/gp/flex/advertising/api/sign-in-jp.html](https://affiliate-program.amazon.com/gp/flex/advertising/api/sign-in-jp.html "https://affiliate-program.amazon.com/gp/flex/advertising/api/sign-in-jp.html")
+
+Mexico	[https://afiliados.amazon.com.mx/gp/advertising/api/detail/main.html](https://afiliados.amazon.com.mx/gp/advertising/api/detail/main.html "https://afiliados.amazon.com.mx/gp/advertising/api/detail/main.html")
+
+Spain	[https://afiliados.amazon.es/gp/flex/advertising/api/sign-in.html](https://afiliados.amazon.es/gp/flex/advertising/api/sign-in.html "https://afiliados.amazon.es/gp/flex/advertising/api/sign-in.html")
+
+United Kingdom	[https://affiliate-program.amazon.co.uk/gp/flex/advertising/api/sign-in.html](https://affiliate-program.amazon.co.uk/gp/flex/advertising/api/sign-in.html "https://affiliate-program.amazon.co.uk/gp/flex/advertising/api/sign-in.html")
+
+United States	[https://affiliate-program.amazon.com/gp/flex/advertising/api/sign-in.html](https://affiliate-program.amazon.com/gp/flex/advertising/api/sign-in.html "https://affiliate-program.amazon.com/gp/flex/advertising/api/sign-in.html")
+
+![](/images/amazon-affiliate-wordpress-plugin-docs-signup-amazon-api.png)
+
+On this page click on “Sign up” on the right and fill in registration. It’s possible to use your existing Amazon account if you don’t mind.
