@@ -44,7 +44,7 @@ sections:
   section_id: faq
   title: Frequently Asked Questions
   component: faq_block.html
-  subtitle: Phasellus luctus laoreet arcu, vel porta metus imperdiet sit amet.
+  subtitle: ''
   bg: gray
   faqitems:
   - question: What plan should I choose?
