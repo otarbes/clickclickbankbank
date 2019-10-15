@@ -3,6 +3,8 @@ img_path = ""
 layout = "page"
 subtitle = ""
 title = "Getting Started"
+[menu.secondary]
+weight = 1
 
 +++
 ## Account creation

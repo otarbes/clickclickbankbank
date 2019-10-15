@@ -4,7 +4,7 @@ layout = "page"
 subtitle = ""
 title = "Terms of Use"
 [menu.secondary]
-weight = 2
+weight = 3
 
 +++
 **Terms and Conditions of clickclickbankbank.com**

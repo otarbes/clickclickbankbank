@@ -6,7 +6,7 @@ title = "Affiliate Program"
 [menu.main]
 weight = 4
 [menu.secondary]
-weight = 1
+weight = 2
 
 +++
 ### Your Affiliate Benefits
