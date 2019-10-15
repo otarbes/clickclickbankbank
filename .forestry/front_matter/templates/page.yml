@@ -24,6 +24,7 @@ fields:
   config:
     required: true
 pages:
+- content/getting-started.md
 - content/support.md
 - content/faq.md
 - content/affiliate-program.md
