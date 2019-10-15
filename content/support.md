@@ -7,6 +7,12 @@ title = "Help & Support"
 weight = 3
 
 +++
+### Getting Started
+
+Here you can find a short tutorial for starting with ClickClickBankBank. Please be aware that this is not a complete documentation.
+
+Go to the tutorial
+
 ### FAQs – Frequently Asked Questions
 
 Here you can find a roundup of the most asked questions by users and the corresponding answers. We grouped the questions and answers in order to make it more comfortable to find the right one. Of course we are going to update this collection regularly.
