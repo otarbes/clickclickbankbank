@@ -11,7 +11,7 @@ weight = 3
 
 Here you can find a short tutorial for starting with ClickClickBankBank. Please be aware that this is not a complete documentation.
 
-Go to the tutorial
+[Go to the tutorial](/getting-started/)
 
 ### FAQs – Frequently Asked Questions
 
