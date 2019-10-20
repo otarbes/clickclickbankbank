@@ -62,7 +62,7 @@ sections:
       on my website!
   - author: David Shaw - fitnessselect.net
     avatar: "/images/david_shaw.jpg"
-    content: Scanning my website is so easy and fast, like 5mix max. My Amazon conversion
+    content: Scanning my website is so easy and fast, like 5min max. My Amazon conversion
       rate increased by 34% once I've changed all my out of stock links!
 - template: pricingblock
   component: pricing_block.html
