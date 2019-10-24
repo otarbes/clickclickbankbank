@@ -86,7 +86,7 @@ sections:
     price: "$15/mo"
     details: |-
       * Unlimited Domains
-      * 20,000 Amazon Links
+      * 5,000 Amazon Links
       * 24-7 Monitoring & Support
     highlight: true
     actions:
