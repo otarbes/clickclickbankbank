@@ -75,7 +75,7 @@ sections:
   - title: Personal
     details: |-
       * Unlimited Domains
-      * 5,000 Amazon Links
+      * 1,000 Amazon Links
       * 24-7 Monitoring & Support
     highlight: false
     actions:
