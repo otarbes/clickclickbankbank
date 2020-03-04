@@ -26,8 +26,8 @@ fields:
 pages:
 - content/affiliate-program.md
 - content/faq.md
-- content/support.md
 - content/getting-started.md
-- content/style-guide.md
-- content/terms-of-use.md
 - content/privacy-cookie-policy.md
+- content/style-guide.md
+- content/support.md
+- content/terms-of-use.md

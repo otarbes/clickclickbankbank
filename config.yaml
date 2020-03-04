@@ -28,5 +28,5 @@ disableKinds:
 menu:
   main:
   - url: https://fr.clickclickbankbank.com/
-    name: "|  FR  | "
+    name: "FR  \U0001F1EB\U0001F1F7 "
     weight: 5
