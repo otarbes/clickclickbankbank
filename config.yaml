@@ -27,6 +27,9 @@ disableKinds:
 - RSS
 menu:
   main:
+  - url: https://app.clickclickbankbank.com/sign-in
+    name: "Login \U0001F512"
+    weight: 6
   - url: https://fr.clickclickbankbank.com/
     name: "FR \U0001F950"
     weight: 5
