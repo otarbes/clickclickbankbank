@@ -100,7 +100,7 @@ sections:
       * 24-7 Monitoring & Support
     highlight: false
     actions:
-    - label: Buy Now
+    - label: Try Now
       url: https://app.clickclickbankbank.com/sign-up
 - template: faqblock
   component: faq_block.html
