@@ -27,7 +27,7 @@ sections:
       * 24-7 Monitoring & Support
     highlight: true
     actions:
-    - label: Buy Now
+    - label: Try Now
       url: https://app.clickclickbankbank.com/sign-up
   - title: Pro
     price: "$25/mo"
