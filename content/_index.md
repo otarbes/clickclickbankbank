@@ -143,7 +143,7 @@ sections:
   component: cta_block.html
   subtitle: 7 days money-back guarantee
   actions:
-  - label: Sign Up
+  - label: Try Now
     url: https://app.clickclickbankbank.com/sign-up
 layout: home
 menu:
