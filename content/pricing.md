@@ -36,7 +36,7 @@ sections:
       * 20,000 Amazon Links
       * 24-7 Monitoring & Support
     actions:
-    - label: Buy Now
+    - label: Try Now
       url: https://app.clickclickbankbank.com/sign-up
     highlight: false
 - type: faqblock
